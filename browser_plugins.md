@@ -1,7 +1,7 @@
 ---
 title: Tirez le meilleur parti de votre navigateur pour faire des recherches académiques
 sub-title: atelier BU
-date: 19/11/2020
+date: 19/05/2021
 author: Damien Belvèze
 bibliography: biblio.bib
 biblio-style: ieee.csl
@@ -11,7 +11,7 @@ link-citation: true
 # Quel navigateur ?
 
 Pas de préférence pour le travail académique : Firefox ou Chrome compatibles tous deux avec Zotero
-Si la recherche porte sur un sujet sensible et requiert l'anonymat, essayer Tor. Tor donne accès aussi à quelques bibliothèques pirates dont [Sci-Hub](https://sci-hub.se)
+Si la recherche porte sur un sujet sensible et requiert l'anonymat, essayer Tor.
 
 # Quel moteur de recherche dans son navigateur ?
 
@@ -38,7 +38,7 @@ Cela peut tout de même poser quelques problèmes de confidentialité : les exte
 ## Library access, aka Lean Library (Chrome, Firefox)
 
 Si votre bibliothèque est abonnée à Library Access, cette extension vous permettra de faire le lien avec les abonnements électroniques de cette bibliothèque. Chaque fois que vous affichez une page sur laquelle se trouve un article accessible par l'un de ces abonnements, le pop up de Library Access vous en informe. La bibliothèque peut ausi y paramétrer des messages utiles à propos de ses services (Prêt entre bibliothèque par exemple). Par ailleurs, Library Access intègre le code libre de Unpaywall (voir ci-dessous) et permet de trouver les versions OA des articles que l'on affiche sur son navigateur.
-Pour plus d'info sur Library Access, consulter la doc sur le site de la bibliothèque (@LiardAcceslignefacile)
+Pour plus d'info sur Library Access, consulter la doc [sur le site](https://bibliotheques.univ-rennes1.fr/library-access) de la bibliothèque (@LiardAcceslignefacile)
 
 ## Kopernio (Chrome, Firefox)
 
@@ -56,6 +56,7 @@ Le moteur de recherche d'Unpaywall est également implémenté dans Zotero
 
 ## Istex (Firefox, Chrome)
 La [plateforme ISTEX](https://www.istex.fr) donne accès à des corpus de revues scientifiques dont les numéros vont jusqu'à une date récente (située vers 2014). La liste des corpus qui ont été négociés et acquis entre 2012 et aujourd'hui pour les communautés universitaires françaises se trouve sur le site [www.licencenationale.fr](https://www.licencesnationales.fr/)
+Pour télécharger l'extension, aller sur le [site d'Istex](https://addons.istex.fr/).
 
 ![bouton ISTEX dans une biblio de Wikipédia](istex_button.PNG)
 
